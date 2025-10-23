@@ -93,7 +93,7 @@ O projeto segue o paradigma de **Programação Orientada a Objetos (POO)**, com 
 
 **Piter Alves**  
 📅 Projeto criado em 2025  
-📫 Contato: [piteralves.dev@gmail.com](mailto:alves_piter@hotmail.com)  
+📫 Contato: [alves_piter@hotmail.com](mailto:alves_piter@hotmail.com)  
 🌐 GitHub: [github.com/PiterAlves](https://github.com/PiterAlves)
 
 ---
