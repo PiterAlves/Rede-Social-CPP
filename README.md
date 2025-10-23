@@ -52,12 +52,12 @@ O projeto segue o paradigma de **Programação Orientada a Objetos (POO)**, com 
 
 3. **Compile o projeto**
    ```bash
-   g++ -std=c++17 -o rede_social main.cpp
+   g++ -o ex main.cpp piter-usuario.cpp piter-redeSocial.cpp raphael-publicacao.cpp raphael-publicacao_imagem.cpp raphael-publicacao_texto.cpp
    ```
 
 4. **Execute**
    ```bash
-   ./rede_social
+   ./ex.exe
    ```
 
 ---
@@ -67,12 +67,10 @@ O projeto segue o paradigma de **Programação Orientada a Objetos (POO)**, com 
 ```
 📦 Rede-Social-CPP
  ┣ 📜 main.cpp
- ┣ 📂 include
  ┃ ┣ usuario.hpp
  ┃ ┣ publicacao.hpp
  ┃ ┣ publicacao_texto.hpp
- ┃ ┗ publicacao_imagem.hpp
- ┣ 📂 src
+ ┃ ┣ publicacao_imagem.hpp
  ┃ ┣ usuario.cpp
  ┃ ┣ publicacao.cpp
  ┃ ┣ publicacao_texto.cpp
@@ -95,7 +93,7 @@ O projeto segue o paradigma de **Programação Orientada a Objetos (POO)**, com 
 
 **Piter Alves**  
 📅 Projeto criado em 2025  
-📫 Contato: [piteralves.dev@gmail.com](mailto:piteralves.dev@gmail.com)  
+📫 Contato: [piteralves.dev@gmail.com](mailto:alves_piter@hotmail.com)  
 🌐 GitHub: [github.com/PiterAlves](https://github.com/PiterAlves)
 
 ---
